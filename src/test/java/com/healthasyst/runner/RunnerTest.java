@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 //		,dryRun = true 
 //		,tags = "@login and (not @high)"
 //		,tags="@patient"
-		,tags="@invalid"
+		//,tags="@invalid"
 //		,plugin = {"pretty","progress"} 
 //		,plugin = {"pretty","html:target/index.html"} 
 		//,plugin = {"pretty","html:target/index.html","rerun:target/rerun.text"} 
